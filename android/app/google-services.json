@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157865476817",
+    "project_id": "epanty-9141d",
+    "storage_bucket": "epanty-9141d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157865476817:android:f7d7f616c04a23af01fbf0",
+        "android_client_info": {
+          "package_name": "com.epanty_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157865476817-eveeocj2t82grqphrfn9m40rv1ii7ug3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epanty_mobile",
+            "certificate_hash": "1099e1a6501be67628fdfe6fac410f705f1beb71"
+          }
+        },
+        {
+          "client_id": "157865476817-6pn8mi80mcbpm1oh5no76atvq6lij5c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf66nefCZdfy-AMySYBrs3jhPMD0r__nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157865476817-6pn8mi80mcbpm1oh5no76atvq6lij5c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
